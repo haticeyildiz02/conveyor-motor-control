@@ -41,3 +41,19 @@ System remains locked until Reset is pressed.
 
 ### 3. Motor Restarted Automatically
 ![Motor Restart](Ekran%20görüntüsü%202026-03-03%20232618.png)
+## 📈 Future Improvements
+
+- Dual conveyor line control
+- Sensor-based sorting logic
+- Alarm indicator for fault conditions
+## 📸 System Screenshots
+
+### Counter Running State
+Sensor detects products and the counter increases while the conveyor motor is running.
+
+![Counter Running](Ekrangörüntüsü2026-03-06170856.png)
+
+### System Stopped After Batch Completion
+After counting 5 products the system stops and waits for a manual reset.
+
+![System Reset State](Ekrangörüntüsü2026-03-06170927.png)
